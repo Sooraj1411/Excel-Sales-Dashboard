@@ -4,6 +4,8 @@
 This excel Dashboard provides a comprehensive analysis of sales data using pivot tables and advance excel functions.<br>This dashboard provides 
 and insightful information about the company's sales through various insightful charts,slicers and things.
 
+[Dashboard Preview](https://github.com/Sooraj1411/Excel-Sales-Dashboard/blob/main/Screenshot%202024-08-09%20164431.png)
+
 ## Features 
 * Sub-Category wise Sales : Highlights the Sub-Category wise Sales through Funnel Chart in Desc Order.
 * Category wise Sales : Highlights Category wise Sales through Line Chart.
