@@ -19,8 +19,8 @@ and insightful information about the company's sales through various insightful 
   The filters of "Year" and "Category" allow users to drill down into specific periods and regions.
 
 ## Files
-`[Excel 3rd Project]` - The Excel file for the dashboard
-`salesdata.csv` - Directory containing the data files used
+* `[Excel 3rd Project]` - The Excel file for the dashboard
+* `salesdata.csv` - Directory containing the data files used
 
 ## Installation
 To view or interact with this dashboard:
