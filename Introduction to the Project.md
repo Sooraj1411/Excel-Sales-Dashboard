@@ -25,8 +25,8 @@ and insightful information about the company's sales through various insightful 
 ## Installation
 To view or interact with this dashboard:
 
-1.Download the Excel 3rd Project.xlsx file from this repository.
-2.Open the file using MS Excel.
+1.Download the Excel 3rd Project.xlsx file from this repository.<br>
+2.Open the file using MS Excel.<br>
 3.Explore the interactive visualizations and customize the filters to gain deeper insights.
 
 ## Contact
